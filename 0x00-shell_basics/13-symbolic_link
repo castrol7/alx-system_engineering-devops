@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x 13-symbolic_link.sh
+ln -s /bin/ls ./__ls__
