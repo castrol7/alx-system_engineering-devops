@@ -1,2 +1,2 @@
 #!/bin/bash
-13-symbolic_link.sh
+chmod +x 13-symbolic_link.sh
