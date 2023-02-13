@@ -1,2 +1,2 @@
 #!/bin/bash
-file_lines=($(cat iacta))
+iacta_lines=($(cat iacta))
